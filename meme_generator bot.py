@@ -4,7 +4,7 @@ import random
 import requests
 import json
 import time
-token='OTgzNTkyMjAwNzU3NzEwODU4.G3IwXH.w-1BZikN29aBF-ypvWDVTwYYMjhfduqGXkpZXY'
+token='<TOKEN>'
 list_of_memes=[]
 def memes():
     url = "https://reddit3.p.rapidapi.com/subreddit"
