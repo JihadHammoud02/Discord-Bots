@@ -29,7 +29,7 @@ def check_link(url1):
     return 'sus link '
 
 bot=discord.Client()
-token='OTgzNzI0MTQzOTI3MjYzMjkz.GO4U-w.BBI2MoI3TwInFgMkzGXtvogOxVgPUQ5_ecLyfM'
+token='<YOUR_TOKEN>'
 
 
 
